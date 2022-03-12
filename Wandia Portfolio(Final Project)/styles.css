@@ -1,0 +1,1096 @@
+*, html {
+    scroll-behavior: auto !important;
+}
+head {
+    display: none;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.top-cloud {
+    position: absolute;
+    right: 600px;
+    top: 50px;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.pacifico {
+    font-family: 'Pacifico', cursive;
+    font-weight: normal;
+}
+h1 {
+    /* color: #11999E; */
+    color: #d3bf7f;
+    margin: 50px auto 0 auto;
+    padding: 0;
+    font-size: 5rem;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.profession {
+    font-weight: normal;
+}
+h2 {
+    /* color: #11999E; */
+    color: #f1f5b9;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.bottom-cloud {
+    position: absolute;
+    bottom: 300px;
+    left: 600px;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.top-container {
+    /* background-color: #98ccd3; */
+    background-color: #EAF6F6;
+    padding-top: 100px;
+    position: relative;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #e9e198;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.profile {
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    line-height: 2;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.profile-img {
+    width: 20%;
+}
+*, html {
+    scroll-behavior: auto !important;
+}.profile {
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    line-height: 2;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+h2 {
+    /* color: #11999E; */
+    color: #e7d09d;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.profile {
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    line-height: 2;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.profile {
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    line-height: 2;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.profile {
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    line-height: 2;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+hr {
+    border-top: 10px dotted #dbf0f0;
+    margin: 4rem auto;
+    /* margin-bottom: 54rem; */
+    width: 10%;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+h2 {
+    /* color: #11999E; */
+    color: #e6dd92;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}.skill-row {
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.computer {
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+.skill-row {
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+h3 {
+    color: #e5ca97;
+    font-family: 'Montserrat', sans-serif;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+user agent stylesheet
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.skill-row {
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.skill-row {
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.skill-row {
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.skill-row {
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.settings {
+    float: right;
+    margin-left: 20px;
+    width: 25%;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+.skill-row {
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+h3 {
+    color: #ebdfab;
+    font-family: 'Montserrat', sans-serif;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.skill-row {
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.skill-row {
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.skill-row {
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}*, html {
+    scroll-behavior: auto !important;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+hr {
+    border-top: 10px dotted #dbf0f0;
+    margin: 4rem auto;
+    /* margin-bottom: 54rem; */
+    width: 10%;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+h2 {
+    /* color: #11999E; */
+    color: #e7d8ad;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+h3 {
+    color: #ddc986;
+    font-family: 'Montserrat', sans-serif;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.btn {
+    text-decoration: none;
+    background-color: #66BFBF;
+    display: inline-block;
+    margin: 2.5rem auto;
+    padding: 0.8rem 1rem;
+    color: #fff;
+    border-radius: 0.5rem;
+}
+a {
+    color: #f0da91;
+    text-decoration: none;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.bottom-container {
+    background-color: #e5c593;
+    padding: 2rem;
+    padding-bottom: 0.2rem;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.footer-link {
+    margin: 3rem auto;
+}
+a {
+    color: #d1c280;
+    text-decoration: none;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.footer-link {
+    margin: 3rem auto;
+}
+a {
+    color: #b9b57c;
+    text-decoration: none;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.copyright {
+    margin-bottom: 2rem;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.credits {
+    font-size: small;
+    color: #11999E;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+a {
+    color: #f8f7bb;
+    text-decoration: none;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.credits {
+    font-size: small;
+    color: #11999E;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.credits {
+    font-size: small;
+    color: #11999E;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.bottom-container {
+    background-color: #cab375;
+    padding: 2rem;
+    padding-bottom: 0.2rem;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+.credits {
+    font-size: small;
+    color: #11999E;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+:root, #speechify-header-hover-button-container, #speechify-paragraph-hover-button-container, #speechify-player, #speechify-listening-nudge, #speechify-feedback-form {
+    --speechify-primary-color:  #4856fd;
+    --font-family:  Inter, sans-serif;
+    --transitions:  none;
+}
+*, html {
+    scroll-behavior: auto !important;
+}
+html {
+    display: block;
+}
